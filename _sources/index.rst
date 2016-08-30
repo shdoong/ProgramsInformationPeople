@@ -127,6 +127,7 @@ Sequences
    Sequences/SplitandJoin.rst
    Sequences/Glossary.rst
    Sequences/Exercises.rst
+   Sequences/ExtraExercises.rst
 
 
 Iteration
@@ -146,6 +147,7 @@ Iteration
    Iteration/TheAccumulatorPatternwithStrings.rst
    Iteration/Glossary.rst
    Iteration/Exercises.rst
+   Iteration/ExtraExercises_IterationCompiled.rst
 
 Conditionals
 ::::::::::::
@@ -159,6 +161,7 @@ Conditionals
    Selection/Chainedconditionals.rst
    Selection/Glossary.rst
    Selection/Exercises.rst
+   Selection/ExtraExercises.rst
 
 Files
 :::::
@@ -175,6 +178,7 @@ Files
    Files/WritingTextFiles.rst
    Files/Glossary.rst
    Files/Exercises.rst
+   Files/ExtraExercises.rst
 
 Understanding Code
 ::::::::::::::::::
@@ -198,6 +202,7 @@ Dictionaries
    Dictionaries/Aliasingandcopying.rst
    Dictionaries/Glossary.rst
    Dictionaries/Exercises.rst
+   Dictionaries/ExtraExercises.rst
 
 
 Accumulating Results in Dictionaries
@@ -211,6 +216,7 @@ Accumulating Results in Dictionaries
    DictionaryAccumulation/AccumulatingaMaximumValue.rst
    DictionaryAccumulation/AccumulatingtheBestKey.rst
    DictionaryAccumulation/Exercises.rst
+   DictionaryAccumulation/ExtraExercises.rst
 
 Building Programs
 :::::::::::::::::
@@ -242,6 +248,7 @@ Functions
    Functions/PassingMutableObjects.rst
    Functions/SideEffects.rst
    Functions/Glossary.rst
+   Functions/ExtraExercises.rst
 
 
 While Loops
@@ -253,6 +260,7 @@ While Loops
    IndefiniteIteration/intro-indefiniteiteration.rst
    IndefiniteIteration/ThewhileStatement.rst
    IndefiniteIteration/listenerLoop.rst
+   IndefiniteIteration/ExtraExercises.rst
 
 Optional and Keyword Parameters
 :::::::::::::::::::::::::::::::
@@ -263,6 +271,7 @@ Optional and Keyword Parameters
    OptionalAndKeywordParameters/OptionalParameters.rst
    OptionalAndKeywordParameters/KeywordParameters.rst
    OptionalAndKeywordParameters/exercises.rst
+   OptionalAndKeywordParameters/ExtraExercises.rst
 
 Tuples
 ::::::
@@ -277,6 +286,7 @@ Tuples
    Tuples/UnpackingDictionaryItems.rst
    Tuples/Glossary.rst
    Tuples/Exercises.rst
+   Tuples/ExtraExercises.rst
 
 
 Nested Data and Nested Iteration
@@ -289,6 +299,7 @@ Nested Data and Nested Iteration
    NestedData/NestedDictionaries.rst
    NestedData/NestedIteration.rst
    NestedData/DebuggingNestedData.rst
+   NestedData/ExtraExercises_Compiled.rst
 
 
 Sorting
@@ -304,6 +315,7 @@ Sorting
    Sort/SortingaDictionary.rst
    Sort/Glossary.rst
    Sort/Exercises.rst
+   Sort/ExtraExercises.rst
 
 
 Python Modules
@@ -317,6 +329,7 @@ Python Modules
    Installation/pip.rst
    PythonModules/Glossary.rst
    PythonModules/Exercises.rst
+   PythonModules/ExtraExercises.rst
 
 Requests
 ::::::::
@@ -352,6 +365,7 @@ Exceptions
 
    Exceptions/intro-exceptions.rst
    Exceptions/using-exceptions.rst
+   Exceptions/ExtraExercises.rst
 
 
 String Formatting
@@ -364,6 +378,7 @@ String Formatting
    StringFormatting/Interpolation.rst
    StringFormatting/CSV.rst
    StringFormatting/Exercises.rst
+   StringFormatting/ExtraExercises.rst
 
 Using RESTAPIs
 ::::::::::::::
@@ -408,6 +423,7 @@ Classes
    Classes/Tamagotchi.rst
    Classes/Glossary.rst
    Classes/Exercises.rst
+   Classes/ExtraExercises.rst
 
 Inheritance
 :::::::::::
@@ -421,6 +437,7 @@ Inheritance
    Inheritance/InvokingSuperMethods.rst
    Inheritance/TamagotchiRevisited.rst
    Inheritance/Exercises.rst
+   Inheritance/ExtraExercises_InheritanceCompiled.rst
 
 More on Accumulation: Map, Filter, Reduce, List Comprehensions, and Zip
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -435,6 +452,7 @@ More on Accumulation: Map, Filter, Reduce, List Comprehensions, and Zip
    AdvancedAccumulation/reduce.rst
    AdvancedAccumulation/zip.rst
    AdvancedAccumulation/exercises.rst
+   AdvancedAccumulation/ExtraExercises.rst
 
 The FaceBook Graph API
 ::::::::::::::::::::::
